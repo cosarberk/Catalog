@@ -1,0 +1,21 @@
+
+
+
+.PCard{
+    width: 150px;height: 230px;background-color: #ddd;
+    margin: 10px;display: inline-block;flex-direction: row;
+    border-radius:10px;
+}
+
+.ColorArea{width: 100%;height:110px;background-image: url("https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"); border-radius:10px;}
+.PTitle{width:100%;margin-top:10px;font-size:14px;text-align: center;display: inline-flex;line-height:20px;
+justify-content: space-evenly;}
+.PInfo{width:100%;text-align: center;}
+.PPrice{width:100%;color: #000;font-size:25px;font-weight: bold;margin-top:10px;}
+
+.PFavorite:hover{color:orange;}
+.PMore{width:100%;height:13px;line-height: 13px;margin-top: 10px;
+font-size: 10px;text-decoration: none;cursor: pointer;transition: 0.3s linear;}
+.PMore:hover{color:#444;}
+
+a{text-decoration: none;color: #000;}

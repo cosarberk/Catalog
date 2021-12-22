@@ -1,0 +1,4 @@
+.PFavorite{width:20px;height:20px;border-radius:2px;color:#000;
+    font-size: 20px;line-height: 20px;cursor: pointer;
+    transition: 0.3s linear;user-select: none;font-weight: bold;
+}

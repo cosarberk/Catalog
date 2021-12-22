@@ -1,0 +1,14 @@
+
+.SLiderer{
+    width:100%;height:100vh;display: inline-block;
+    position: absolute;z-index:-5;top:0;left:0;white-space: nowrap;
+    flex-direction: row;flex-wrap: nowrap;
+   scrollbar-width: none;   
+  
+}
+
+
+body::-webkit-scrollbar {
+    display: none;
+  }
+  

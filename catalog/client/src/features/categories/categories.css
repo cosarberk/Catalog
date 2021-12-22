@@ -1,0 +1,10 @@
+
+
+.Categories_btn{
+    font-size:15px;cursor: pointer;border-radius:5px;background-color: orange;
+    margin-top:20px;padding: 10px;width: fit-content;transition: 0.3s linear;
+}
+.Categories_btn:hover{
+    background-color: rgb(160, 107, 9);
+}
+p{font-size: 10px;margin-left: 10px;}
